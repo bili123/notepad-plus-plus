@@ -1,7 +1,8 @@
 What is Notepad++ ?
 ===================
 
-[![Join the disscussions at https://notepad-plus-plus.org/community/](https://notepad-plus-plus.org/assets/images/NppCommunityBadge.svg)](https://notepad-plus-plus.org/community/)
+[![Join the disscussions at https://notepad-plus-plus.org/community/](https://notepad-plus-plus.org/assets/images/NppCommunityBadge.svg)](https://notepad-plus-plus.org/community/)[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbili123%2Fnotepad-plus-plus.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbili123%2Fnotepad-plus-plus?ref=badge_shield)
+
 &nbsp;&nbsp;&nbsp;&nbsp;[![Join the chat at https://gitter.im/notepad-plus-plus/notepad-plus-plus](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/notepad-plus-plus/notepad-plus-plus?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Notepad++ is a free (free as in both "free speech" and "free beer") source code
@@ -86,3 +87,7 @@ To build SciLexer.dll without PCRE support (for both 32-bit & 64-bit):
 See the [Notepad++ official site](https://notepad-plus-plus.org/) for more information.
 
 [Notepad++ Contributors](https://notepad-plus-plus.org/contributors)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbili123%2Fnotepad-plus-plus.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbili123%2Fnotepad-plus-plus?ref=badge_large)
